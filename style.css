@@ -98,7 +98,7 @@ h1 {
 
 
 
-    background-image: url('/images/shapes/shape-3.png');
+    background-image: url('images/shapes/shape-3.png');
 
     background-repeat: no-repeat;
 
@@ -133,7 +133,7 @@ footer div {
     padding-right: 15%;
     border-radius: 30px;
 
-    background-image: url('/images/shapes/shape-6.png');
+    background-image: url('images/shapes/shape-6.png');
     background-size: 50%;
 
     background-position: right;
